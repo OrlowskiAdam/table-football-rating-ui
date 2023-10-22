@@ -1,0 +1,2 @@
+interface EloRating extends Rating {
+}
